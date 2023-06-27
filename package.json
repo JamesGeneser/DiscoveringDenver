@@ -1,0 +1,33 @@
+{
+  "name": "discovering-denver",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@lemonadejs/rating": "^1.0.1",
+    "@mui/icons-material": "^5.11.11",
+    "bcrypt": "^5.0.0",
+    "bootstrap": "^5.2.3",
+    "connect-session-sequelize": "^7.0.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "express-session": "^1.17.1",
+    "handlebars": "^4.7.6",
+    "lemonadejs": "^3.1.1",
+    "mysql2": "^2.2.5",
+    "react-bootstrap": "^2.7.2",
+    "react-show-more-text": "^1.6.2",
+    "sequelize": "^6.3.5"
+  }
+}

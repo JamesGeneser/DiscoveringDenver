@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+.vscode
+.DS_Store
+.env
+GH-test.html
+locations.html
+review.html
+
+signin.html
+signup.html
